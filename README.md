@@ -3,7 +3,7 @@ Find Michelin restaurants from your location or anywhere.
 
 Requirements:
 * tkinter
-* tkiner.messagebox
+* tkinter.messagebox
 * json
 * requests
 * os
