@@ -14,3 +14,4 @@ Requirements:
 * bs4
 
 Install if you do not have these.
+![MichelinGif](https://github.com/user-attachments/assets/6141a154-cb22-4850-89da-ab51bf04acf2)
