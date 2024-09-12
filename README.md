@@ -15,4 +15,4 @@ Requirements:
 
 Install if you do not have these.
 
-![MichelinGif](https://github.com/user-attachments/assets/6141a154-cb22-4850-89da-ab51bf04acf2)
+![MichelinGif](https://github.com/user-attachments/assets/4061a725-9108-4e46-890b-e2e356b2caef)
